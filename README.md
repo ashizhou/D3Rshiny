@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ashizhou/koa-artweb">
+  <a href="https://github.com/ashizhou/shifting-income">
     <img src="src/pic/logo.png" alt="Logo" width="200" height="200">
   </a>
 
@@ -11,14 +11,14 @@
   <p align="center">
      🚀Simple D3js Data Visualization 
     <br />
-    <a href="https://github.com/ashizhou/koa-artweb"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ashizhou/shifting-income"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://ashizhou.shinyapps.io/d3_rshiny_dashboard/">View Demo</a>
     ·
-    <a href="https://github.com/ashizhou/D3Rshiny/issues">Report Bug</a>
+    <a href="https://github.com/ashizhou/shifting-income/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ashizhou/D3Rshiny/issues">Request Feature</a>
+    <a href="https://github.com/ashizhou/shifting-income/issues">Request Feature</a>
   </p>
 </p>
 
@@ -72,11 +72,11 @@ Check out [another entry](https://github.com/supertrashpanda/BeautifulBars) from
 
 1. Clone the repo
 ```sh
-git clone https:://https://github.com/ashizhou/D3Rshiny.git
+git clone https:://https://github.com/ashizhou/shifting-income.git
 ```
 2. Run
 ```
-$ shiny::runApp('/D3Rshiny/src')
+$ shiny::runApp('/shifting-income/src')
 ```
 
 <!-- ROADMAP -->
@@ -109,7 +109,7 @@ Contributions are what make the open source community such an amazing place to b
 
 Ashi Zhou - zhouyixiao.personal@gmail.com
 
-Project Link - [repo](https://github.com/ashizhou/D3Rshiny)
+Project Link - [repo](https://github.com/ashizhou/shifting-income)
 
 
 
