@@ -9,7 +9,7 @@
   <h3 align="center">Shifting Income by Gender and Education</h3>
 
   <p align="center">
-     🚀Simple D3js Data Visualization 
+     	💫 Simple D3js Data Visualization 
     <br />
     <a href="https://github.com/ashizhou/shifting-income"><strong>Explore the docs »</strong></a>
     <br />
